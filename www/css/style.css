@@ -5,6 +5,10 @@
   font-family: 'Helvetica Neue',"ＭＳ ゴシック",Helvetica,Arial,sans-serif;
 }
 
+body {
+  background-color: #ffffff;
+}
+
 .tateDisplay {
   width: 600px;
   height: 1200px;
